@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define INFINITY 99999
-
 
 struct Edge
 {
@@ -10,7 +8,6 @@ struct Edge
 	int v;
 	int w;
 };
-
 
 struct Graph
 {
