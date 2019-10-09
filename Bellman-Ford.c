@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #define INFINITY 99999
 
+/*
+** Program to find shortest path using Bellman-Ford algorithm
+** Made by - Abhishek Chand
+*/
+
 struct Edge
 {
 	int u;
